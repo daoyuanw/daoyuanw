@@ -1,6 +1,6 @@
 # Hi, I'm Daoyuan Wu 👋
 
-A Japan-based learner diving into Python, AI, and full-stack tinkering. 
+A China-based learner diving into Python, AI, and full-stack tinkering. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daoyuanw&show_icons=true&theme=radical&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daoyuanw&layout=compact&theme=radical&hide_border=true)
 
