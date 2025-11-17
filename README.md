@@ -20,7 +20,7 @@ A China-based learner diving into Python, AI, and full-stack tinkering.
 - Deploying apps to Vercel.
 - Data viz with Matplotlib for habit insights.
 
-Connect on [X/Twitter](https://x.com/wUllHdyh5fF8hwR)) or fork a repo to collab! 🚀
+Connect on [X/Twitter](https://x.com/wUllHdyh5fF8hwR) or fork a repo to collab! 🚀
 
 ---
 
