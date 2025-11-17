@@ -6,9 +6,7 @@ A China-based learner diving into Python, AI, and full-stack tinkering.
 
 ## What I'm Building
 - **Daily Habit Tracker** (Python): Voice-enabled app to log skills, hit milestones (10/100/1000 hours), and celebrate wins. [View Repo](https://github.com/daoyuanw/daily-habit-tracker)
-- **Second Brain Tool** (Streamlit/Python): Import & classify bookmarks from Weibo, WeChat, Xiaohongshu—AI-powered declutter for focused reading.
-- **HCI Demos** (Streamlit/OpenCV): Quick prototypes like edge detection and sketch-to-text converters. Fun experiments in computer vision!
-- **Personal Blog** (Hugo): Thoughts on coding hurdles, from Jupyter Books to Vercel deploys. [Read Here](https://my-blog-nu-gray.vercel.app/)
+- **Personal Blog** (Hugo): Thoughts on coding and learning. [Read Here](https://my-blog-nu-gray.vercel.app/)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
