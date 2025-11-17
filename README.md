@@ -2,7 +2,7 @@
 
 A China-based learner diving into Python, AI, and full-stack tinkering. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daoyuanw&show_icons=true&theme=radical&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daoyuanw&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daoyuanw&layout=compact&theme=radical&hide_border=true)
 
 ## What I'm Building
 - **Daily Habit Tracker** (Python): Voice-enabled app to log skills, hit milestones (10/100/1000 hours), and celebrate wins. [View Repo](https://github.com/daoyuanw/daily-habit-tracker)
